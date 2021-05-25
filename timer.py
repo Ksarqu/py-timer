@@ -9,5 +9,3 @@ while LeftTime > 0:
     system("cls")
     
 print("Time has elapsed")
-
-#dsggnklsedhduioghuosjebhojik'sdrnjikop
